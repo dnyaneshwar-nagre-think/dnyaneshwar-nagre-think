@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Hello, world! I'm Dnyaneshwar Nagre, a passionate to learn new technologies and I am  based in Pune, India.</p>
+<p align="left">👋 Hello, world! I'm Dnyaneshwar Nagre, a passionate to learn new technologies and I am  based in Pune, India  🇮🇳.</p>
 
 ###
 
