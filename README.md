@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Hello, world! I'm Dnyaneshwar Nagre, passionate to learn new technologies and I am  based in Pune, India.</p>
+<p align="left">👋 Hello, world! I'm Dnyaneshwar Nagre, a passionate to learn new technologies and I am  based in Pune, India.</p>
 
 ###
 
@@ -52,8 +52,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
