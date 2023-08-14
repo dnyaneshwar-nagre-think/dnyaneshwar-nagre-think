@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Hello, world! I'm Dnyaneshwar Nagre, a passionate to learn new technologies and I am  based in Pune, India.</p>
+<p align="left">👋 Hello, world! I'm Dnyaneshwar Nagre, passionate to learn new technologies and I am  based in Pune, India.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I am a passionate and innovative software developer with a knack for turning complex problems into elegant solutions. <br>With a Bachelor's degree in Computer Engineering and a keen eye for detail, I have spent the last seven years honing my skills in full-stack web development. <br>✨  I thrive in collaborative environments, leveraging my strong communication skills to seamlessly bridge the gap between technical and non-technical stakeholders. I am well-versed in multiple programming languages, <br>including Java, Spring, Microservices, JavaScript, ReactJS, and Angular. <br>📚 I am always eager to stay up-to-date with industry trends and technologies. When not coding, I enjoy exploring new hiking trails and experimenting with new recipes in my kitchen.</p>
+<p align="left">✨ I am a passionate and innovative software developer with a knack for turning complex problems into elegant solutions. <br>With a Bachelor's degree in Computer Engineering and a keen eye for detail, I have spent the last seven years honing my skills in full-stack web development. <br><br>✨  I thrive in collaborative environments, leveraging my strong communication skills to seamlessly bridge the gap between technical and non-technical stakeholders. I am well-versed in multiple programming languages, <br>including Java, Spring, Microservices, JavaScript, ReactJS, and Angular. <br><br>📚 I am always eager to stay up-to-date with industry trends and technologies. When not coding, I enjoy exploring new hiking trails and experimenting with new recipes in my kitchen.</p>
 
 ###
 
